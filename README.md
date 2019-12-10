@@ -34,6 +34,8 @@ Reddit post: [Minimalist workspace inspired by Chrome OS](https://www.reddit.com
 # Install
 - Copy plasma folder to ~/.local/share/plasma
 
+- Copy konsole folder to ~/.local/share/konsole
+
 - Copy Kvantum folder to ~/.local/config/Kvantum
 
 - Right click on latte dock, choose Layout -> Configure... -> Import chrome-os.layout.latte.
