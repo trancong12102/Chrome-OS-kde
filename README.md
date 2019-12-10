@@ -3,6 +3,9 @@ Reddit post: [Minimalist workspace inspired by Chrome OS](https://www.reddit.com
 
 ![Chrome OS KDE](https://github.com/nopain2110/Chrome-OS-kde/blob/master/preview.png?raw=true)
 
+# Plasma Systray Latte Tweaks
+- With [Plasma Systray Latte Tweaks](https://github.com/psifidotos/plasma-systray-latte-tweaks), I can set auto color and padding for system tray icon.
+
 # Plasma widgets
 - Latte Dock
 - [Latte Spacer](https://github.com/psifidotos/applet-latte-spacer)
