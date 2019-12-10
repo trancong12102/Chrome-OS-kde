@@ -1,1 +1,1 @@
-# Chrome-OS-kde
+# Chrome OS KDE
