@@ -8,6 +8,7 @@ Reddit post: [Minimalist workspace inspired by Chrome OS](https://www.reddit.com
 - [Latte Spacer](https://github.com/psifidotos/applet-latte-spacer)
 - [Latte Separator](https://github.com/psifidotos/applet-latte-separator)
 - [Event Calendar](https://github.com/Zren/plasma-applet-eventcalendar)
+- [Virtual Desktop Bar](https://github.com/wsdfhjxc/virtual-desktop-bar)
 
 # Window Decoration 
 - [hello](https://github.com/n4n0GH/hello)
